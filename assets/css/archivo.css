@@ -995,7 +995,8 @@ form {
       margin-bottom: 20px;
       height: auto; }
       .card-deck .cart .card img {
-        width: auto; }
+        width: auto;
+        height: 25vh; }
     .card-deck .cart .card-body {
       text-align: center;
       align-items: center;
